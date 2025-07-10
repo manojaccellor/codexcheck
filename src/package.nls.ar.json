@@ -1,10 +1,10 @@
 {
-	"extension.displayName": "Kilo Code وكيل ذكاء اصطناعي (ميزات Cline و Roo مجتمعين)",
+	"extension.displayName": "CodexCheck وكيل ذكاء اصطناعي (ميزات Cline و Roo مجتمعين)",
 	"extension.description": "مساعد برمجة ذكاء اصطناعي مفتوح المصدر يساعدك تخطط وتبني وتعدل الكود.",
-	"views.contextMenu.label": "Kilo Code",
-	"views.terminalMenu.label": "Kilo Code",
-	"views.activitybar.title": "Kilo Code (⇧⌘A)",
-	"views.sidebar.name": "Kilo Code",
+	"views.contextMenu.label": "CodexCheck",
+	"views.terminalMenu.label": "CodexCheck",
+	"views.activitybar.title": "CodexCheck (⇧⌘A)",
+	"views.sidebar.name": "CodexCheck",
 	"command.newTask.title": "مهمة جديدة",
 	"command.mcpServers.title": "خوادم MCP",
 	"command.prompts.title": "الأنماط المخصصة",
@@ -25,13 +25,13 @@
 	"command.terminal.fixCommand.title": "صلح هذا الأمر",
 	"command.terminal.explainCommand.title": "شرح هذا الأمر",
 	"command.acceptInput.title": "اعتماد الإدخال أو الاقتراح",
-	"command.generateCommitMessage.title": "توليد رسالة الاعتماد بواسطة Kilo",
+	"command.generateCommitMessage.title": "توليد رسالة الاعتماد بواسطة CodexCheck",
 	"command.profile.title": "الملف الشخصي",
-	"configuration.title": "Kilo Code",
+	"configuration.title": "CodexCheck",
 	"commands.allowedCommands.description": "الأوامر اللي تنفّذ تلقائي إذا فعّلت خيار 'الموافقة دايمًا على تنفيذ العمليات'",
 	"settings.vsCodeLmModelSelector.description": "إعدادات واجهة برمجة نموذج اللغة في VSCode",
 	"settings.vsCodeLmModelSelector.vendor.description": "مزود نموذج اللغة (مثال: copilot)",
 	"settings.vsCodeLmModelSelector.family.description": "عائلة نموذج اللغة (مثال: gpt-4)",
-	"settings.customStoragePath.description": "مسار تخزين مخصص. خله فاضي عشان يستخدم المسار الافتراضي. يدعم المسارات المطلقة (مثال: 'D:\\KiloCodeStorage')",
-	"settings.enableCodeActions.description": "فعل الإصلاحات السريعة في Kilo Code"
+	"settings.customStoragePath.description": "مسار تخزين مخصص. خله فاضي عشان يستخدم المسار الافتراضي. يدعم المسارات المطلقة (مثال: 'D:\\CodexCheckStorage')",
+	"settings.enableCodeActions.description": "فعل الإصلاحات السريعة في CodexCheck"
 }

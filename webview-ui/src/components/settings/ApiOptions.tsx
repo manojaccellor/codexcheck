@@ -422,7 +422,7 @@ const ApiOptions = ({
 						defaultModelId="claude37"
 						models={routerModels?.["kilocode-openrouter"] ?? {}}
 						modelIdKey="kilocodeModel"
-						serviceName="Kilo Code"
+						serviceName="CodexCheck"
 						serviceUrl="https://kilocode.ai"
 						organizationAllowList={organizationAllowList}
 					/>

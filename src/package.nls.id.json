@@ -1,10 +1,10 @@
 {
-	"extension.displayName": "Agen AI Kilo Code (fitur Cline / Roo digabungkan)",
+	"extension.displayName": "Agen AI CodexCheck (fitur Cline / Roo digabungkan)",
 	"extension.description": "Asisten coding AI Open Source untuk merencanakan, membangun, dan memperbaiki kode.",
-	"views.contextMenu.label": "Kilo Code",
-	"views.terminalMenu.label": "Kilo Code",
-	"views.activitybar.title": "Kilo Code (⇧⌘A)",
-	"views.sidebar.name": "Kilo Code",
+	"views.contextMenu.label": "CodexCheck",
+	"views.terminalMenu.label": "CodexCheck",
+	"views.activitybar.title": "CodexCheck (⇧⌘A)",
+	"views.sidebar.name": "CodexCheck",
 	"command.newTask.title": "Tugas Baru",
 	"command.mcpServers.title": "Server MCP",
 	"command.prompts.title": "Mode",
@@ -25,12 +25,12 @@
 	"command.terminal.fixCommand.title": "Perbaiki Perintah Ini",
 	"command.terminal.explainCommand.title": "Jelaskan Perintah Ini",
 	"command.acceptInput.title": "Terima Input/Saran",
-	"configuration.title": "Kilo Code",
+	"configuration.title": "CodexCheck",
 	"commands.allowedCommands.description": "Perintah yang dapat dijalankan secara otomatis ketika 'Selalu setujui operasi eksekusi' diaktifkan",
 	"settings.vsCodeLmModelSelector.description": "Pengaturan untuk API Model Bahasa VSCode",
 	"settings.vsCodeLmModelSelector.vendor.description": "Vendor dari model bahasa (misalnya copilot)",
 	"settings.vsCodeLmModelSelector.family.description": "Keluarga dari model bahasa (misalnya gpt-4)",
 	"settings.customStoragePath.description": "Path penyimpanan kustom. Biarkan kosong untuk menggunakan lokasi default. Mendukung path absolut (misalnya 'D:\\KiloCodeStorage')",
-	"settings.enableCodeActions.description": "Aktifkan perbaikan cepat Kilo Code.",
-	"settings.autoImportSettingsPath.description": "Path ke file konfigurasi Kilo Code untuk diimpor secara otomatis saat ekstensi dimulai. Mendukung path absolut dan path relatif terhadap direktori home (misalnya '~/Documents/kilo-code-settings.json'). Biarkan kosong untuk menonaktifkan impor otomatis."
+	"settings.enableCodeActions.description": "Aktifkan perbaikan cepat CodexCheck.",
+	"settings.autoImportSettingsPath.description": "Path ke file konfigurasi CodexCheck untuk diimpor secara otomatis saat ekstensi dimulai. Mendukung path absolut dan path relatif terhadap direktori home (misalnya '~/Documents/kilo-code-settings.json'). Biarkan kosong untuk menonaktifkan impor otomatis."
 }

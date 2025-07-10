@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"greeting": "Welcome to Kilo Code!",
-		"introText1": "Kilo Code is a free, open source AI coding agent.",
+		"greeting": "Welcome to CodexCheck!",
+		"introText1": "CodexCheck is a free, open source AI coding agent.",
 		"introText2": "It works with the latest AI models like Claude 4 Sonnet, Gemini 2.5 Pro, GPT-4.1, and 450+ more.",
 		"introText3": "Create a free account and get $20 worth of tokens to use across any AI model.",
 		"ctaButton": "Create a free account",
@@ -11,7 +11,7 @@
 	},
 	"lowCreditWarning": {
 		"addCredit": "Add Credit",
-		"lowBalance": "Your Kilo Code balance is low"
+		"lowBalance": "Your CodexCheck balance is low"
 	},
 	"notifications": {
 		"toolRequest": "Tool request waiting for approval",
@@ -23,28 +23,28 @@
 			"mcp": "MCP Servers"
 		},
 		"provider": {
-			"account": "Kilo Code Account",
-			"apiKey": "Kilo Code API Key",
-			"login": "Log in at Kilo Code",
-			"logout": "Log out from Kilo Code"
+			"account": "CodexCheck Account",
+			"apiKey": "CodexCheck API Key",
+			"login": "Log in at CodexCheck",
+			"logout": "Log out from CodexCheck"
 		},
 		"contextManagement": {
 			"allowVeryLargeReads": {
 				"label": "Allow very large file reads",
-				"description": "When enabled, Kilo Code will perform very large file or MCP output reads even if there is a high chance of overflowing the context window (content size >80% of context window)."
+				"description": "When enabled, CodexCheck will perform very large file or MCP output reads even if there is a high chance of overflowing the context window (content size >80% of context window)."
 			}
 		},
 		"systemNotifications": {
 			"label": "Enable System Notifications",
-			"description": "When enabled, Kilo Code will send system notifications for important events like task completion or errors.",
+			"description": "When enabled, CodexCheck will send system notifications for important events like task completion or errors.",
 			"testButton": "Test Notification",
-			"testTitle": "Kilo Code",
-			"testMessage": "This is a test notification from Kilo Code."
+			"testTitle": "CodexCheck",
+			"testMessage": "This is a test notification from CodexCheck."
 		}
 	},
 	"chat": {
 		"condense": {
-			"wantsToCondense": "Kilo Code wants to condense your conversation",
+			"wantsToCondense": "CodexCheck wants to condense your conversation",
 			"condenseConversation": "Condense Conversation"
 		}
 	},
@@ -60,15 +60,15 @@
 	},
 	"docs": "Docs",
 	"rules": {
-		"tooltip": "Manage Kilo Code Rules & Workflows",
-		"ariaLabel": "Kilo Code Rules",
+		"tooltip": "Manage CodexCheck Rules & Workflows",
+		"ariaLabel": "CodexCheck Rules",
 		"tabs": {
 			"rules": "Rules",
 			"workflows": "Workflows"
 		},
 		"description": {
-			"rules": "Rules allow you to provide Kilo Code with instructions it should follow in all modes and for all prompts. They are a persistent way to include context and preferences for all conversations in your workspace or globally.",
-			"workflows": "Workflows are a prepared template for a conversation. Workflows can allow you to define prompts you use frequently, and can include a series of steps to guide Kilo Code through repetitive tasks, such as deploying a service or submitting a PR. To invoke a workflow, type",
+			"rules": "Rules allow you to provide CodexCheck with instructions it should follow in all modes and for all prompts. They are a persistent way to include context and preferences for all conversations in your workspace or globally.",
+			"workflows": "Workflows are a prepared template for a conversation. Workflows can allow you to define prompts you use frequently, and can include a series of steps to guide CodexCheck through repetitive tasks, such as deploying a service or submitting a PR. To invoke a workflow, type",
 			"workflowsInChat": "in the chat."
 		},
 		"sections": {

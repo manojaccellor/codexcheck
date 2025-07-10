@@ -89,8 +89,7 @@ function killAllChildProcesses() {
 						child.kill("SIGKILL")
 					}
 				}, 5000)
-			} catch (_error) {
-			}
+			} catch (_error) {}
 		}
 
 		activeProcesses.clear()

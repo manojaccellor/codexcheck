@@ -1,5 +1,5 @@
 {
-	"extension.displayName": "Kilo Code AI Agent (Cline / Roo features combined)",
+	"extension.displayName": "CodexCheck AI Agent (Cline / Roo features combined)",
 	"extension.description": "Kod planlama, oluşturma ve düzeltme için açık kaynaklı yapay zeka kodlama asistanı.",
 	"command.newTask.title": "Yeni Görev",
 	"command.explainCode.title": "Kodu Açıkla",
@@ -15,10 +15,10 @@
 	"command.terminal.explainCommand.title": "Bu Komutu Açıkla",
 	"command.acceptInput.title": "Girişi/Öneriyi Kabul Et",
 	"command.generateCommitMessage.title": "Kilo ile Commit Mesajı Oluştur",
-	"views.activitybar.title": "Kilo Code",
-	"views.contextMenu.label": "Kilo Code",
-	"views.terminalMenu.label": "Kilo Code",
-	"views.sidebar.name": "Kilo Code",
+	"views.activitybar.title": "CodexCheck",
+	"views.contextMenu.label": "CodexCheck",
+	"views.terminalMenu.label": "CodexCheck",
+	"views.sidebar.name": "CodexCheck",
 	"command.mcpServers.title": "MCP Sunucuları",
 	"command.prompts.title": "Modlar",
 	"command.history.title": "Geçmiş",
@@ -27,12 +27,12 @@
 	"command.settings.title": "Ayarlar",
 	"command.documentation.title": "Dokümantasyon",
 	"command.profile.title": "Profil",
-	"configuration.title": "Kilo Code",
+	"configuration.title": "CodexCheck",
 	"commands.allowedCommands.description": "'Her zaman yürütme işlemlerini onayla' etkinleştirildiğinde otomatik olarak yürütülebilen komutlar",
 	"settings.vsCodeLmModelSelector.description": "VSCode dil modeli API'si için ayarlar",
 	"settings.vsCodeLmModelSelector.vendor.description": "Dil modelinin sağlayıcısı (örn: copilot)",
 	"settings.vsCodeLmModelSelector.family.description": "Dil modelinin ailesi (örn: gpt-4)",
 	"settings.customStoragePath.description": "Özel depolama yolu. Varsayılan konumu kullanmak için boş bırakın. Mutlak yolları destekler (örn: 'D:\\KiloCodeStorage')",
-	"settings.enableCodeActions.description": "Kilo Code hızlı düzeltmeleri etkinleştir.",
-	"settings.autoImportSettingsPath.description": "Uzantı başlangıcında otomatik olarak içe aktarılacak bir Kilo Code yapılandırma dosyasının yolu. Mutlak yolları ve ana dizine göreli yolları destekler (ör. '~/Documents/kilo-code-settings.json'). Otomatik içe aktarmayı devre dışı bırakmak için boş bırakın."
+	"settings.enableCodeActions.description": "CodexCheck hızlı düzeltmeleri etkinleştir.",
+	"settings.autoImportSettingsPath.description": "Uzantı başlangıcında otomatik olarak içe aktarılacak bir CodexCheck yapılandırma dosyasının yolu. Mutlak yolları ve ana dizine göreli yolları destekler (ör. '~/Documents/kilo-code-settings.json'). Otomatik içe aktarmayı devre dışı bırakmak için boş bırakın."
 }
